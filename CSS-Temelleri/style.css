@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  font-size: 35px;
+}
+
+li {
+  background-color: #ebe646;
+  text-decoration: line-through;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  font-size: 30px;
+}
